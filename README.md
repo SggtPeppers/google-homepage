@@ -1,1 +1,1 @@
-This mini-project i will deconstruct an existing web page and rebuild it.
+In this mini-project i will deconstruct an existing web page and rebuild it.
